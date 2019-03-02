@@ -1,0 +1,6 @@
+To push any changes:
+1. open terminal-->go to repo label
+2.git add -A(if all changes added) or git add fileName
+3.git commit -m "any comment"
+4.git pull origin master
+5.git push origin master
